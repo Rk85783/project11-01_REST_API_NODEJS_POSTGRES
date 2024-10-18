@@ -1,6 +1,6 @@
 {
   "name": "01_rest_api_nodejs_postgres",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js"
