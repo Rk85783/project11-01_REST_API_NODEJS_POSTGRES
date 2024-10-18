@@ -1,3 +1,4 @@
+require('dotenv').require()
 const express = require('express')
 const database = require('./services/database')
 
